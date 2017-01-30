@@ -1,0 +1,79 @@
+.root{
+    -fx-background-color: #383838;
+}
+.label{
+    -fx-font-size: 45px;
+    -fx-font-style: oblique;
+    -fx-text-fill: paleturquoise;
+
+}
+#score{
+    -fx-font-size: 20px;
+    -fx-font-style: oblique;
+    -fx-text-fill: #ffc0cb;
+
+}
+#Welcome{
+    -fx-font-size: 40px;
+    -fx-font-style: oblique;
+    -fx-text-fill: paleturquoise;
+
+}
+.button{
+    //-fx-background-color: #AB4642;
+    -fx-text-fill: #2f4f4f;
+
+//-fx-background-size: ;
+    -fx-font-size: 55px;
+
+}
+
+#hard{
+    //-fx-background-color: #AB4642;
+    -fx-text-fill: #2f4f4f;
+
+//-fx-background-size: ;
+    -fx-font-size: 35px;
+
+}
+
+#OX{
+    -fx-background-color: #b0e0e6;
+    -fx-text-fill: #FFFFFF;
+
+//-fx-background-size: ;
+    -fx-font-size: 40px;
+
+}
+#button-blue{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+#button-blue2{
+    -fx-background-color: #dda0dd;
+    -fx-text-fill: #FFFFFF;
+    //-fx-background-radius: 4;
+    -fx-font-size: 35px;
+}
+#startButton{
+    -fx-background-color: #AB4642;
+         -fx-text-fill: #FFFFFF;
+         -fx-background-radius: 4;
+
+         -fx-font-size: 30px;
+         -fx-font-style: oblique;
+         }
+
+#button-red{
+      -fx-background-color: #f08080;
+          -fx-text-fill: #FFFFFF;
+          -fx-background-radius: 4;
+          -fx-font-size: 40px;
+      }
+
+#scoreLabel{
+    -fx-font-size: 30px;
+      -fx-font-style: oblique;
+      -fx-text-fill: #66cdaa;
+}

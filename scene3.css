@@ -1,0 +1,62 @@
+.root{
+    -fx-background-color: #383838;
+}
+.label{
+    -fx-text-fill: lightcoral;
+    //-fx-background-radius: 4;
+
+    -fx-font: 30px "Serif";
+    -fx-font-style: bold;
+
+
+}
+.button{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+//-fx-background-size: ;
+    -fx-font-size: 30px;
+    -fx-font-style: oblique;
+}
+.button-blue{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+#bold-label{
+    -fx-font-weight: bold;
+
+}
+#choice-box{
+    -fx-background-color: #cac9ff;
+    -fx-text-fill:  #cac9ff;
+    -fx-font-style: Courier New;
+    -fx-font-size: 10px;
+}
+#header{
+    -fx-text-fill: #e8e8e8;
+    -fx-font-size: 60px;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+
+}
+#Welcome{
+    -fx-font-size: 45px;
+    -fx-font-style: oblique;
+    -fx-text-fill: paleturquoise;
+
+}
+#user{
+    -fx-font-size: 30px;
+    -fx-font-style: oblique;
+    -fx-text-fill: red;
+
+}
+#playbutton{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+//-fx-background-size: ;
+    -fx-font-size: 35px;
+    -fx-font-style: oblique;
+}
